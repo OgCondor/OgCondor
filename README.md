@@ -36,7 +36,7 @@
 <h3 align="center">✠ Arsenal ✠</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,cpp,c,aiscript,bootstrap,lua,mysql,php,debian,linux,discordjs,sketchup&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,cpp,c,aiscript,bootstrap,lua,mysql,php,debian,linux,discordjs,sketchup&perline4&theme=dark" />
 </p>
 
 <!-- Intérêts -->
