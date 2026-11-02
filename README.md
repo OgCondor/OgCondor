@@ -10,7 +10,7 @@
 
 <!-- Texte animé -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1500&color=B57EDC&center=true&vCenter=true&width=700&lines=Redbull+Enjoyer;Reverse+engineer+by+obsession;Pentesting+in+the+shadows;Packets+never+lie;Nerd+since+the+age+of+7;Segfaults+do+not+scare+me;Poker+face+on%2C+headshots+loading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1500&color=B57EDC&center=true&vCenter=true&width=700&lines=Takis+Enjoyer;Reverse+engineer+by+obsession;Pentesting+in+the+shadows;Packets+never+lie;Nerd+since+the+age+of+7;Segfaults+do+not+scare+me;Poker+face+on%2C+headshots+loading" />
 </p>
 
 <p align="center">
