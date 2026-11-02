@@ -32,25 +32,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0610,50:9b59d6,100:0a0610&height=2" width="80%" />
 </p>
 
-<!-- Stats -->
-<h3 align="center">✠ Stolen Abilities ✠</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OgCondor&show_icons=true&custom_title=Skill+Hunter&bg_color=0a0610&title_color=9b59d6&text_color=e6d9f2&icon_color=2fb8c9&border_color=3b1f5c" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OgCondor&background=0a0610&ring=9b59d6&fire=2fb8c9&currStreakLabel=9b59d6&sideLabels=9b59d6&currStreakNum=e6d9f2&sideNums=e6d9f2&dates=a58bc0&border=3b1f5c" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgCondor&layout=compact&custom_title=Cursed+Tongues&bg_color=0a0610&title_color=9b59d6&text_color=e6d9f2&border_color=3b1f5c" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0610,50:9b59d6,100:0a0610&height=2" width="80%" />
-</p>
-
 <!-- Techs -->
 <h3 align="center">✠ Arsenal ✠</h3>
 
