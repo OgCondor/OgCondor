@@ -5,22 +5,22 @@
 
 <!-- Header animé -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1f5c,100:9b59d6&height=160&section=header&text=C0nd0r&fontSize=60&fontColor=e6d9f2&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1f5c,100:9b59d6&height=160&section=header&text=Condor&fontSize=60&fontColor=e6d9f2&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <!-- Texte animé -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=9b59d6&center=true&vCenter=true&width=600&lines=C0ff33+3nj0y3r;R3v3rs3+3ng1n33r1ng+4dd1c7;C0d1ng+51nc3+4g3+9;Wh3n+1+4m+n07+h4ck1ng%2C+1+4m+gr1nd1ng+CS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=9b59d6&center=true&vCenter=true&width=650&lines=Coffee+enjoyer;Reverse+engineer+by+nature;Coding+since+age+9;Segfault+survivor;Tilted+in+Valo%2C+calm+at+the+poker+table" />
 </p>
 
 <!-- À propos -->
-<h3 align="center">// 4b0u7 m3</h3>
+<h3 align="center">$ whoami</h3>
 
 <p align="center">
-  1'm C0nd0r, 4 c0mpu73r nu7 51nc3 4g3 9.<br>
-  1 l0v3 70rn 4p4r7 b1n4r135 4nd 533 h0w 7h1ng5 r34ll7 w0rk.<br>
-  R3v3rs3 3ng1n33r1ng 15 my 7h1ng.<br>
-  4n1m3, CS, V4l0 4nd p0k3r 4r3 wh4t k33p m3 4l1v3.
+  Computer nerd since age 9.<br>
+  I live for taking binaries apart to see what makes them tick.<br>
+  Reverse engineering isn't a hobby, it's a lifestyle.<br>
+  Anime, CS, Valo and poker keep me sane (mostly).
 </p>
 
 <!-- Stats -->
@@ -37,21 +37,21 @@
 </p>
 
 <!-- Techs -->
-<h3 align="center">// 5t4ck</h3>
+<h3 align="center">$ cat stack.txt</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp" />
 </p>
 
-<!-- Badges intérêts -->
-<h3 align="center">// 1n73r3575</h3>
+<!-- Intérêts -->
+<h3 align="center">$ ls ~/interests</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/R3v3rs3_3ng-9b59d6?style=for-the-badge&labelColor=0f0a18" />
-  <img src="https://img.shields.io/badge/4n1m3-9b59d6?style=for-the-badge&labelColor=0f0a18" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-9b59d6?style=for-the-badge&labelColor=0f0a18" />
+  <img src="https://img.shields.io/badge/Anime-9b59d6?style=for-the-badge&labelColor=0f0a18" />
   <img src="https://img.shields.io/badge/CS-9b59d6?style=for-the-badge&labelColor=0f0a18" />
-  <img src="https://img.shields.io/badge/V4l0-9b59d6?style=for-the-badge&labelColor=0f0a18" />
-  <img src="https://img.shields.io/badge/P0k3r-9b59d6?style=for-the-badge&labelColor=0f0a18" />
+  <img src="https://img.shields.io/badge/Valorant-9b59d6?style=for-the-badge&labelColor=0f0a18" />
+  <img src="https://img.shields.io/badge/Poker-9b59d6?style=for-the-badge&labelColor=0f0a18" />
 </p>
 
 <!-- Footer -->
