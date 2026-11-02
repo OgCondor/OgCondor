@@ -10,7 +10,7 @@
 
 <!-- Texte animé -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1500&color=B57EDC&center=true&vCenter=true&width=700&lines=Redbull+Enjoyer;Reverse+engineer+by+obsession;Nerd+since+the+age+of+7;Segfaults+do+not+scare+me;Poker+face+on%2C+headshots+loading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1500&color=B57EDC&center=true&vCenter=true&width=700&lines=Redbull+Enjoyer;Reverse+engineer+by+obsession;Pentesting+in+the+shadows;Packets+never+lie;Nerd+since+the+age+of+7;Segfaults+do+not+scare+me;Poker+face+on%2C+headshots+loading" />
 </p>
 
 <p align="center">
@@ -21,9 +21,10 @@
 <h3 align="center">🕷 $ whoami 🕷</h3>
 
 <p align="center">
-  Computer nerd since age 13, still hooked.<br>
+  Computer nerd since age 7, still hooked.<br>
   I write <b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Python</b> and <b>C++</b>.<br>
   <b>Reverse engineering</b> is my thing: I live for tearing binaries apart to see what is inside.<br>
+  I also love <b>pentesting</b> and <b>networking</b>: poking at systems, following packets, finding the cracks before anyone else does.<br>
   I'm into anime, I grind <b>CS</b> and <b>Valorant</b>, and I love a good game of <b>poker</b>.
 </p>
 
@@ -62,6 +63,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Reverse_Engineering-9b59d6?style=for-the-badge&labelColor=0a0610" />
+  <img src="https://img.shields.io/badge/Pentesting-9b59d6?style=for-the-badge&labelColor=0a0610" />
+  <img src="https://img.shields.io/badge/Networking-9b59d6?style=for-the-badge&labelColor=0a0610" />
   <img src="https://img.shields.io/badge/Anime-9b59d6?style=for-the-badge&labelColor=0a0610" />
   <img src="https://img.shields.io/badge/Counter--Strike-9b59d6?style=for-the-badge&labelColor=0a0610" />
   <img src="https://img.shields.io/badge/Valorant-9b59d6?style=for-the-badge&labelColor=0a0610" />
