@@ -21,7 +21,7 @@
 <h3 align="center">🕷 $ whoami 🕷</h3>
 
 <p align="center">
-  Computer nerd since age 9, still hooked.<br>
+  Computer nerd since age 13, still hooked.<br>
   I write <b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Python</b> and <b>C++</b>.<br>
   <b>Reverse engineering</b> is my thing: I live for tearing binaries apart to see what is inside.<br>
   I'm into anime, I grind <b>CS</b> and <b>Valorant</b>, and I love a good game of <b>poker</b>.
